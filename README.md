@@ -33,8 +33,8 @@
 ![EX_NO_5](https://github.com/Monishofficial/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/149455421/88d48cf6-646d-4442-81d6-404ebb451831)
 ![EX_NO_5(2)](https://github.com/Monishofficial/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/149455421/7d7aa1aa-7b1e-43e1-ba41-d45c7247024e)
 
-### Name:
-### Register Number:
+### Name:MONISH N
+### Register Number:23013301
 
 ## Result: 
 ### Thus the simulation on construction of delta 3D printer is completed & movement of axis along X, Y, & Z has been studied.
